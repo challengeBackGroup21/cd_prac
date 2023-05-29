@@ -8,7 +8,7 @@ on:
     branches: [main]
 
 env:
-  DOCKER_IMAGE: ghcr.io/${{ github.repository_owner }}/cd_test
+  DOCKER_IMAGE: ghcr.io/moviewiki/cd_test
   VERSION: ${{ github.sha }}
   NAME: cd_test
 
