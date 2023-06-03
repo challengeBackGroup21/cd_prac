@@ -1,5 +1,6 @@
 # This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+# 뭔가 보안을 다 열어놔서 굉장히 위험한 상황에 놓일 것 같은 안 좋은 느낌이 들기도 함.
 
 name: nest pull_request submitted
 
